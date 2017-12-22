@@ -1,0 +1,4 @@
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript
+https://dzone.com/refcardz/design-patterns
+https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+
